@@ -59,6 +59,8 @@ Below are some other helpful resources for beginners to Matlab:
 
 {% include quizzes.html id=31 %}
 
+{% include quizzes.html id=32 %}
+
 ## Basic plotting
 
 ### 2-D plots
@@ -281,7 +283,8 @@ Here are a few commonly used matrix operations. We will use the following matric
 
 
 
-Learn more about matrices in Matlab:
+Learn more about Matlab:
   - [Tutorialspoint](https://www.tutorialspoint.com/matlab/index.htm)
   - [MathWorks Arrays vs Matrices](https://www.mathworks.com/help/matlab/matlab_prog/array-vs-matrix-operations.html?)
+  - [Documentation](https://www.mathworks.com/help/matlab/index.html?s_tid=CRUX_lftnav)
 
